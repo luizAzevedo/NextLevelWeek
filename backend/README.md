@@ -33,3 +33,11 @@ yarn add cors
 
 yarn add -D @types/cors
 
+yarn add multer
+
+yarn add -D @types/multer
+
+yarn add celebrate     
+
+yarn add -D @types/hapi__joi
+
